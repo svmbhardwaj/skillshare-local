@@ -38,6 +38,7 @@ export default function Home() {
               alt="Skill Sharing"
               width={180}
               height={180}
+              className={styles.invertedIcon}
             />
           </div>
         </div>
