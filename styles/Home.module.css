@@ -76,3 +76,8 @@
   margin-top: 1rem;
   filter: brightness(1.2);
 }
+
+.invertedIcon {
+  filter: invert(1) brightness(1.2) contrast(1.2);
+}
+
